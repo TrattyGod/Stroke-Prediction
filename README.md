@@ -15,7 +15,7 @@ Please be aware that this is not a diagnosis, only a recommendation to go see a 
 ## USE
 
 Either:
-- Install STROKE-PREDICTION-V1.0.0.zip, unzip it, and run it
+- Install STROKE-PREDICTION-V1.0.0.zip, unzip it, and run it (REMOVED DUE TO LARGE FILE SIZE)
 - Download user.py, and run it in a python complier
 
 ## CREDITS
